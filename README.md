@@ -6,4 +6,4 @@ New York City is Airbnb’s largest domestic market, with more than 50,000 apart
 
 The objective of the project is to visualize data present in the [New York City Airbnb Open Data](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) and analyze listing activity and metrics in NYC, NY for 2019.
 
-Uploaded in the repository, is a packaged workbook of the data and the analysis. The same can be found on y Tableau Public Profile [here](https://public.tableau.com/profile/namita.ramesh#!/vizhome/AirBnB-NYC_15800606051900/AirBnBNYC) as well.
+Uploaded in the repository, is a packaged workbook of the data and the analysis. The same can be found on my Tableau Public Profile [here](https://public.tableau.com/profile/namita.ramesh#!/vizhome/AirBnB-NYC_15800606051900/AirBnBNYC) as well.
